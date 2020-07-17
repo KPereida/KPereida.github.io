@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV here.
+Download CV [here](http://kpereida.github.io/files/KarimePereida.pdf)
